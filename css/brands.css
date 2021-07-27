@@ -119,6 +119,9 @@
   color: #FFFFFF;
   background-color: #5865F2 }
 .button.button-discord:hover,
+.button.button-discord:hover:before {
+    content: 'Tambien puedes agregarme en discord como zocra#1193'; 
+    white-space: initial; }
 .button.button-discord:focus {
   filter: brightness(90%) }
 
@@ -152,6 +155,9 @@
   border: 2.0px solid #FFFFFF;
   background-color: #000000 }
 .button.button-github:hover,
+.button.button-github:hover:before {
+    content: 'Aqui puedes encontrar mi repositorio'; 
+    white-space: initial; }
 .button.button-github:focus {
   filter: brightness(90%) }
 
@@ -184,6 +190,9 @@
   color: #FFFFFF;
   background-color: #2867B2 }
 .button.button-linkedin:hover,
+.button.button-linkedin:hover:before {
+    content: 'Mi perfil de Linkedin'; 
+    white-space: initial; }
 .button.button-linkedin:focus {
   filter: brightness(90%) }
 
@@ -331,15 +340,21 @@
 .button.button-whatsapp{
   color: #FFFFFF;
   background-color: #25D366}
-.button.button-wordpress:hover,
-.button.button-wordpress:focus {
+.button.button-whatsapp:hover,
+.button.button-whatsapp:hover:before {
+    content: 'Haciendo click aquí, puedes enviarme un whatsapp'; 
+    white-space: initial; }
+.button.button-whatsapp:focus {
   filter: brightness(90%) }
 
 /* PDF */
 .button.button-pdf{
   color: #FFFFFF;
   background-color: #F40F02}
-.button.button-wordpress:hover,
-.button.button-wordpress:focus {
+.button.button-pdf:hover,
+.button.button-pdf:hover:before {
+    content: 'Aqui puedes encontrar mi resumen'; 
+    white-space: initial; }
+.button.button-pdf:focus {
   filter: brightness(90%) }
 
