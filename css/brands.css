@@ -120,7 +120,7 @@
   background-color: #5865F2 }
 .button.button-discord:hover,
 .button.button-discord:hover:before {
-    content: 'Tambien puedes agregarme en discord como zocra#1193'; 
+    content: 'Tambien puedes agregarme en Discord como zocra#1193'; 
     white-space: initial; }
 .button.button-discord:focus {
   filter: brightness(90%) }
@@ -156,7 +156,7 @@
   background-color: #000000 }
 .button.button-github:hover,
 .button.button-github:hover:before {
-    content: 'Aqui puedes encontrar mi repositorio'; 
+    content: 'Aquí puedes encontrar mi repositorio'; 
     white-space: initial; }
 .button.button-github:focus {
   filter: brightness(90%) }
@@ -191,7 +191,7 @@
   background-color: #2867B2 }
 .button.button-linkedin:hover,
 .button.button-linkedin:hover:before {
-    content: 'Mi perfil de Linkedin'; 
+    content: 'Mi perfil de LinkedIn'; 
     white-space: initial; }
 .button.button-linkedin:focus {
   filter: brightness(90%) }
@@ -353,7 +353,7 @@
   background-color: #F40F02}
 .button.button-pdf:hover,
 .button.button-pdf:hover:before {
-    content: 'Aqui puedes encontrar mi resumen'; 
+    content: 'Aquí puedes encontrar mi resumen'; 
     white-space: initial; }
 .button.button-pdf:focus {
   filter: brightness(90%) }
